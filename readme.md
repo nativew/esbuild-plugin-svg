@@ -31,7 +31,7 @@ render() {
 ### Custom element
 
 ```js
-import iconLogo from './logo.svg';
+import './logo.svg';
 
 render() {
     return `
