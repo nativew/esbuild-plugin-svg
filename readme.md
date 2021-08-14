@@ -44,7 +44,7 @@ render() {
 
 ### Use
 
-`esbuild.config.json`
+`esbuild.config.js`
 
 ```js
 import esbuild from 'esbuild';
